@@ -25,7 +25,7 @@ The end product should:
 
 ## Instructions
 
-1. Clone repo, change to directory, and install dependencies: `git clone git@github.com:colinhoernig/producer-consumer.git && cd producer-consumer && npm install`
+1. Clone repo, change to directory, and install dependencies: `git clone git@github.com:dtanaji75/producerconsumer.git && cd producer-consumer && npm install`
 2. Edit `config.js` to configure:
   * `expressionCount` - the number of expressions the Producer should generate
   * `producerPort` - the port that the Producer service lives on
